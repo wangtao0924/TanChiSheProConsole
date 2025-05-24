@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PartOne\Game.cs" />
+    <Compile Include="PartOne\ISceneUpdate.cs" />
+    <Compile Include="PartTwo\BeginOrEndScene.cs" />
+    <Compile Include="PartTwo\EndSence.cs" />
+    <Compile Include="PartTwo\GameScene.cs" />
+    <Compile Include="PartTwo\BeginSence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

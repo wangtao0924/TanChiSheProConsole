@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\partone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:partone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\parttwo\\endsence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:parttwo\\endsence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\parttwo\\startsence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:parttwo\\startsence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\parttwo\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:parttwo\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\parttwo\\beginorendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:parttwo\\beginorendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|d:\\unityitem\\tanchisheproconsole\\tanchisheconsole\\partone\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D64EB-9D0E-472C-AFD1-37130E824CDC}|TanChiSheConsole.csproj|solutionrelative:partone\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndSence.cs",
+              "DocumentMoniker": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\EndSence.cs",
+              "RelativeDocumentMoniker": "PartTwo\\EndSence.cs",
+              "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\EndSence.cs",
+              "RelativeToolTip": "PartTwo\\EndSence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:49:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartSence.cs",
+              "DocumentMoniker": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\StartSence.cs",
+              "RelativeDocumentMoniker": "PartTwo\\StartSence.cs",
+              "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\StartSence.cs",
+              "RelativeToolTip": "PartTwo\\StartSence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:47:21.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\GameScene.cs",
+              "RelativeDocumentMoniker": "PartTwo\\GameScene.cs",
+              "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\GameScene.cs",
+              "RelativeToolTip": "PartTwo\\GameScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:46:53.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeginOrEndScene.cs",
+              "DocumentMoniker": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\BeginOrEndScene.cs",
+              "RelativeDocumentMoniker": "PartTwo\\BeginOrEndScene.cs",
+              "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartTwo\\BeginOrEndScene.cs",
+              "RelativeToolTip": "PartTwo\\BeginOrEndScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:41:51.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartOne\\Game.cs",
+              "RelativeDocumentMoniker": "PartOne\\Game.cs",
+              "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartOne\\Game.cs",
+              "RelativeToolTip": "PartOne\\Game.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:09:42.679Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +113,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T08:30:39.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISceneUpdate.cs",
+              "DocumentMoniker": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartOne\\ISceneUpdate.cs",
+              "RelativeDocumentMoniker": "PartOne\\ISceneUpdate.cs",
+              "ToolTip": "D:\\UnityItem\\TanChiSheProConsole\\TanChiSheConsole\\PartOne\\ISceneUpdate.cs",
+              "RelativeToolTip": "PartOne\\ISceneUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:12:45.04Z",
               "EditorCaption": ""
             }
           ]
