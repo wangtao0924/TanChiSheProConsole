@@ -36,7 +36,7 @@ namespace TanChiSheConsole.PartOne
             Console.SetWindowSize(GameWindowWidth, GameWindowHeight);
 
             //设置缓冲区的大小，即控制台可打印的区域
-            Console.SetBufferSize(GameWindowWidth, GameWindowHeight);
+            Console.SetBufferSize(GameWindowWidth+2, GameWindowHeight);
 
             ChangeScene(E_SceneType.Begin);
         }
