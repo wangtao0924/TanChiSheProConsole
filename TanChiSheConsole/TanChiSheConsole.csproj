@@ -43,12 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PartOne\Game.cs" />
-    <Compile Include="PartOne\ISceneUpdate.cs" />
-    <Compile Include="PartTwo\BeginOrEndScene.cs" />
-    <Compile Include="PartTwo\EndSence.cs" />
-    <Compile Include="PartTwo\GameScene.cs" />
-    <Compile Include="PartTwo\BeginSence.cs" />
+    <Compile Include="Part1\Game.cs" />
+    <Compile Include="Part1\ISceneUpdate.cs" />
+    <Compile Include="Part2\BeginOrEndScene.cs" />
+    <Compile Include="Part2\EndSence.cs" />
+    <Compile Include="Part2\GameScene.cs" />
+    <Compile Include="Part2\BeginSence.cs" />
+    <Compile Include="Part3\GameObj.cs" />
+    <Compile Include="Part3\IDraw.cs" />
+    <Compile Include="Part3\Position.cs" />
+    <Compile Include="Part4\Food.cs" />
+    <Compile Include="Part4\SnakBody.cs" />
+    <Compile Include="Part4\Wall.cs" />
+    <Compile Include="Part5\Map.cs" />
+    <Compile Include="Part6\Snak.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

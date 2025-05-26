@@ -26,8 +26,8 @@ namespace TanChiSheConsole.PartTwo
             Console.SetCursorPosition(Game.GameWindowWidth / 2 - strOne.Length, 8);
             Console.ForegroundColor = nowSelIndex==0?ConsoleColor.Red:ConsoleColor.White;
             Console.Write(strOne);
-            Console.SetCursorPosition(Game.GameWindowWidth/2-4,8);
-            Console.ForegroundColor = nowSelIndex == 0 ? ConsoleColor.Red : ConsoleColor.White;
+            Console.SetCursorPosition(Game.GameWindowWidth/2-4,11);
+            Console.ForegroundColor = nowSelIndex == 1 ? ConsoleColor.Red : ConsoleColor.White;
             Console.Write("结束游戏");
 
             //检测输入

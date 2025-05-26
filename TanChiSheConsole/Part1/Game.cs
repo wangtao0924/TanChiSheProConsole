@@ -22,10 +22,15 @@ namespace TanChiSheConsole.PartOne
         public const int GameWindowHeight = 20;
 
         //当前选中的场景
-        public ISceneUpdate nowScene;
+        public static ISceneUpdate nowScene;
 
 
         public Game()
+        {
+            
+        }
+
+        public void  Inint()
         {
             Console.CursorVisible = false;
             Console.SetWindowSize(GameWindowWidth, GameWindowHeight);
@@ -34,13 +39,13 @@ namespace TanChiSheConsole.PartOne
             Console.SetBufferSize(GameWindowWidth, GameWindowHeight);
 
             ChangeScene(E_SceneType.Begin);
-
         }
 
 
         public void Start()
         {
 
+            Inint();
             while (true)
             {
                 if (nowScene != null)
@@ -50,7 +55,7 @@ namespace TanChiSheConsole.PartOne
             }
         }
 
-        public void ChangeScene(E_SceneType type)
+        public static void ChangeScene(E_SceneType type)
         {
             Console.Clear();
 
